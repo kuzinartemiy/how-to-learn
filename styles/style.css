@@ -83,7 +83,7 @@ h1, h2, h3, p, ul {
 .header__square-pic {
   position: absolute;
   right: 0;
-  margin-top: 64px; /* or top: 64px; ?? */
+  top: 64px;
   background-color: #2f80ed;
   height: 568px;
   width: 568px;
