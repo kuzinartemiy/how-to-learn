@@ -77,6 +77,4 @@ ___________________________
 Соцсети
 
 
-TEST
-TEST
-TEST
+GIT CONNECTION TEST
