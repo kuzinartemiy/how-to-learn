@@ -6,7 +6,7 @@
     src: url("../fonts/protoGroteskLightWeb.woff2") format("woff2");
     font-display: swap;
     font-style: normal;
-    font-weight: auto;
+    font-weight: 300;
 }
 
 @font-face {
@@ -18,5 +18,5 @@
     src: url("../fonts/PTRootUIRegular.web.ttf") format("web.ttf");
     font-display: swap;
     font-style: normal;
-    font-weight: normal;
+    font-weight: 400;
 }
