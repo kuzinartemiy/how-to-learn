@@ -4,7 +4,7 @@
     box-sizing: border-box;
     display: flex;
     flex-direction: column;
-    font-family: sans-serif;
+    font-family: "Proto Grotesk-Light-Web", "PTRootUIWebRegular", sans-serif;
     background-color: #FFFFFF;
     min-width: 320px;
     max-width: 1280px;
