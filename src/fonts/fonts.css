@@ -1,3 +1,22 @@
 @font-face {
+    font-family: "Proto Grotesk-Light-Web";
+    src: url("../fonts/protoGroteskLightWeb.eot") format("oet");
+    src: url("../fonts/protoGroteskLightWeb.ttf") format("ttf");
+    src: url("../fonts/protoGroteskLightWeb.woff") format("woff");
+    src: url("../fonts/protoGroteskLightWeb.woff2") format("woff2");
+    font-display: swap;
+    font-style: normal;
+    font-weight: auto;
+}
 
+@font-face {
+    font-family: "PTRootUIWebRegular";
+    src: url("../fonts/PTRootUIRegular.eot") format("oet");
+    src: url("../fonts/PTRootUIRegular.ttf") format("ttf");
+    src: url("../fonts/PTRootUIRegular.woff") format("woff");
+    src: url("../fonts/PTRootUIRegular.woff2") format("woff2");
+    src: url("../fonts/PTRootUIRegular.web.ttf") format("web.ttf");
+    font-display: swap;
+    font-style: normal;
+    font-weight: normal;
 }
