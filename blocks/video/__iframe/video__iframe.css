@@ -1,9 +1,10 @@
 .video__iframe {
-    width: 515px;
-    height: 316px;
-    border: none;
+  width: 516px;
+  height: 316px;
+  
+  border: none;
 }
 
 .video__iframe:first-child {
-    padding-right: 20px;
+  padding-right: 20px;
 }

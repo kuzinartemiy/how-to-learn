@@ -1,6 +1,8 @@
 .video__iframes {
-    margin-bottom: -60px;
-    padding-top: 50px;
-    display: flex;
-    z-index: 1;
+  margin-bottom: -60px;
+  padding-top: 50px;
+
+  display: flex;
+  
+  z-index: 1;
 }
